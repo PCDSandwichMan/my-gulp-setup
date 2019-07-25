@@ -1,0 +1,32 @@
+{
+  "name": "my-gulp-setup",
+  "version": "1.0.0",
+  "description": "This is my standard setup for my gulp task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCDSandwichMan/my-gulp-setup.git"
+  },
+  "author": "PCDSandwichMan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PCDSandwichMan/my-gulp-setup/issues"
+  },
+  "homepage": "https://github.com/PCDSandwichMan/my-gulp-setup#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-changed": "^4.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
+}
